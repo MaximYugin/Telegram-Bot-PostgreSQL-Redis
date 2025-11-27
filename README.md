@@ -1,4 +1,4 @@
-# Telegram Bot с PostgreSQL и Redis
+# Telegram Bot simple с PostgreSQL и Redis
 
 Telegram бот на aiogram с поддержкой PostgreSQL, Redis, многоязычности и админ-панели.
 
